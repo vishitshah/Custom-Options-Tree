@@ -1,14 +1,14 @@
 === Custom Options tree ===
 Contributors: vishitshah
 Donate link: https://www.paypal.me/vishitshah
-Tags: theme options , options ,header logo, Google Analytical , Footer logo, copy right text , design and development text , Social media (facebook, twitter, linkedin, instagram, google +).
+Tags: theme options , options ,header logo, Footer logo, copy right text.
 Requires at least: 3.0.1
-Tested up to: 5.0.2
-Stable tag: 1.0.1
+Tested up to: 6.8
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin allows the end user to upload a header logo , google analytical code , footer logo, copy right text, design and development text & social media (facebook, twitter, linkedin, instagram, google +).
+This plugin allows the end user to upload a header logo , footer logo, copy right text, design and development text & social media.
 
 == Description ==
 
@@ -29,6 +29,24 @@ Multiple features are provided such as:
 * Social Media (facebook, twitter, linkedin, instagram, google +)
 
 == Changelog ==
+= 1.4 =
+* Google Plus Remove
+* Some changes on Function and esacping string
+* Compatibility with WordPress 6.8
+* fixes some minor changes
+
+= 1.2 =
+* Escaping changes
+* Compatibility with WordPress 6.5
+* fixes some minor changes
+
+= 1.3.1 =
+* Add version 1.3.1 files
+* Compatibility with WordPress 5.9.2
+
+= 1.3 =
+* Remove tabbing Design.
+
 = 1.1.2 =
 * Fixed some undefined variable.
 

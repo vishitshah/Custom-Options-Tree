@@ -9,9 +9,12 @@ h1.main-title{
 .customtheme h2 {
     color: #0C94BE !important;
 }
-span.notice-shortcode {
+p.notice-shortcode {
     background-color: #fff;
     padding: 10px;
     border-left: #0C94BE 4px solid;
     border-right: #0C94BE 4px solid;
+}
+.notice-shortcode span {
+    margin-top: 10px;
 }
